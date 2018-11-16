@@ -1,0 +1,23 @@
+[
+  {
+    "username": "administrator",
+    "password": "administrator",
+    "role": 0,
+    "name": "Marcia Jones",
+    "email": "admin@heychai.com"
+  },
+  {
+    "username": "pharmacist",
+    "password": "pharmacist",
+    "role": 1,
+    "name": "GROOT",
+    "email": "imgroot@ohyeah.com"
+  },
+  {
+    "username": "customer",
+    "password": "customer",
+    "role": 2,
+    "name": "Peter Hodges",
+    "email": "auctor@quamvel.net"
+  }
+]
